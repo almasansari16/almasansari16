@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, I'm **Almas Ansari**!  
 🌟 Passionate about crafting scalable and innovative solutions.  
-💼 Currently working at **Indigo Textile**.  
+💼 Currently working at **SuperNova Solutions**.  
 📚 Former **Senior Assistant** at **Governor House Teaching Faculty**.  
 🌱 Learning: Python for AI development and advanced React Native skills.  
 💬 Ask me about: MERN Stack, React Native, or software scalability.  
